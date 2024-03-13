@@ -968,23 +968,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WFLHSUEH
 
 [Document55]
-DocumentPath=Schematic\Differential_driver.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=67
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KLVLYZFO
-
-[Document56]
 DocumentPath=Schematic\DC_Power_Switching.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1001,7 +984,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDHMYDEA
 
-[Document57]
+[Document56]
 DocumentPath=Layout\Longboard_32bit_ext.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1018,7 +1001,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJMIWPDL
 
-[Document58]
+[Document57]
 DocumentPath=Layout\Longboard_32bit_ext.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
