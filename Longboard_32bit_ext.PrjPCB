@@ -712,6 +712,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document40]
+DocumentPath=Longboard_32bit_ext.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
 Description=FULL_PLACE
@@ -737,6 +754,18 @@ Variation16=Designator=R212|UniqueId=\CPSRESAS\GEQXKKUU\YJVVZWDR\ISQBOYGC|Kind=1
 Variation17=Designator=J36|UniqueId=\CPSRESAS\SMURALDA\WAFEHLRJ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Longboard_32bit_ext\BOM\Bill of Materials-Longboard_32bit_ext_A1_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Longboard_32bit_ext\BOM\JLPCB BOM-Longboard_32bit_ext_A1_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Longboard_32bit_ext\BOM\Octopart BOM-Longboard_32bit_ext_A1_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\AD17\Library\*.*
 IncludeSubFolders=1
@@ -755,7 +784,7 @@ IncludeSubFolders=1
 
 [Parameter1]
 Name=VarRevNo
-Value=A1
+Value=B8
 
 [Parameter2]
 Name=Title
@@ -763,7 +792,7 @@ Value=Sienci Longboard Ext
 
 [Parameter3]
 Name=PCBREVNO
-Value=A1
+Value=B8
 
 [Parameter4]
 Name=PCBPARTNO
@@ -784,7 +813,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
