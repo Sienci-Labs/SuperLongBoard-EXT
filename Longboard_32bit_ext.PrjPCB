@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for Longboard_32bit_ext
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -744,7 +744,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FGGVQLSB
 
 [Document42]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_CNC_Breakout.SCHLIB
@@ -761,7 +761,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JPNFQUAG
 
 [Document43]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Universal_breakout.PcbLib
@@ -795,7 +795,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WRTBQHMJ
 
 [Document45]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Transistor_NPN.SchLib
@@ -812,7 +812,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SNXALUAE
 
 [Document46]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\RES.SchLib
@@ -829,7 +829,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HLBESONQ
 
 [Document47]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.SchLib
@@ -846,7 +846,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ACUBZLPY
 
 [Document48]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\NetTie.PcbLib
@@ -880,7 +880,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RNJWUMFL
 
 [Document50]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Miscellaneous Devices LC.PcbLib
@@ -914,7 +914,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JSSXFVPY
 
 [Document52]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LED.SchLib
@@ -931,7 +931,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SQBERQTN
 
 [Document53]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\LDO.SchLib
@@ -948,7 +948,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CCDDGAMC
 
 [Document54]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IUD.SchLib
@@ -965,7 +965,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VMPXMJDM
 
 [Document55]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC_temp.SchLib
@@ -982,7 +982,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GQNPVBEG
 
 [Document56]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\IC.SchLib
@@ -999,7 +999,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VITYGUXC
 
 [Document57]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\FBEAD.SchLib
@@ -1016,7 +1016,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GBUUCOMP
 
 [Document58]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Diode.SchLib
@@ -1033,7 +1033,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JHFWXUNK
 
 [Document59]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\CrystalOscillator.SchLib
@@ -1050,7 +1050,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FITEGSRK
 
 [Document60]
 DocumentPath=..\cnc_projects\Altium_JLC_Library\Cap.SchLib
@@ -1067,7 +1067,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VTPOGMYO
 
 [ProjectVariant1]
 UniqueID=88C0E832-ADA3-44FB-9D87-64E364CEB3EA
@@ -1098,6 +1098,10 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for Longboard_32bit_ext\BOM\JLPCB BOM-Longboard_32bit_ext_B8_FULL_PLACE.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Longboard_32bit_ext\BOM\JLPCB BOM-Longboard_32bit_ext_B9_FULL_PLACE.xlsx
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\AD17\Library\*.*
 IncludeSubFolders=1
@@ -1115,20 +1119,20 @@ Path=..\..\..\Expatria\Repos\cnc_projects\Altium_JLC_Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=PCBPARTNO
-Value=Sienci Longboard Ext
+Name=VarRevNo
+Value=B9
 
 [Parameter2]
-Name=PCBREVNO
-Value=B8
-
-[Parameter3]
 Name=Title
 Value=Sienci Longboard Ext
 
+[Parameter3]
+Name=PCBREVNO
+Value=B9
+
 [Parameter4]
-Name=VarRevNo
-Value=B8.1
+Name=PCBPARTNO
+Value=Sienci Longboard Ext
 
 [Configuration1]
 Name=Default Configuration
@@ -1297,7 +1301,7 @@ TerminationPrefC7=0
 TerminationVCC7=5
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Longboard_32bit_ext
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1513,7 +1517,7 @@ OutputName7=Schematic Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=A5|PaperIndex=11
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PrintScaleName=PrintFitPageWidth|PaperKind=A5
 Configuration7_Name1=OutputConfigurationParameter1
 Configuration7_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=C:\Repo\superlongboard-ext\Schematic\Title Sheet.SchDoc
 OutputType8=SimView Print
