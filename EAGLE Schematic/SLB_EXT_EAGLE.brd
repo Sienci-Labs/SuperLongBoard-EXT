@@ -55241,9 +55241,13 @@ Please make sure your boards conform to these design rules.</description>
 </signal>
 <signal name="HALT_PEN">
 <contactref element="J14" pad="4"/>
+<contactref element="U21" pad="2"/>
+<wire x1="7.773546875" y1="25.77383125" x2="26.824990625" y2="23.701221875" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="KPSTR_PEN">
 <contactref element="J14" pad="5"/>
+<contactref element="U22" pad="2"/>
+<wire x1="10.313546875" y1="26.79383125" x2="26.824990625" y2="28.355009375" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$186">
 <contactref element="U21" pad="1"/>

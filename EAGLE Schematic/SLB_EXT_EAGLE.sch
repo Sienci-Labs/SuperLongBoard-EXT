@@ -46019,12 +46019,22 @@ Works with https://github.com/grblHAL/Plugin_keypad</text>
 <wire x1="345.44" y1="142.24" x2="320.04" y2="142.24" width="0.1524" layer="91"/>
 <label x="342.9" y="142.24" size="1.778" layer="95" rot="MR0"/>
 </segment>
+<segment>
+<pinref part="U21" gate="G$1" pin="C"/>
+<wire x1="124.46" y1="76.2" x2="142.24" y2="76.2" width="0.1524" layer="91"/>
+<label x="129.54" y="76.2" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="KPSTR_PEN" class="0">
 <segment>
 <pinref part="J14" gate="G$1" pin="5"/>
 <wire x1="345.44" y1="139.7" x2="320.04" y2="139.7" width="0.1524" layer="91"/>
 <label x="342.9" y="139.7" size="1.778" layer="95" rot="MR0"/>
+</segment>
+<segment>
+<pinref part="U22" gate="G$1" pin="C"/>
+<wire x1="124.46" y1="38.1" x2="140.97" y2="38.1" width="0.1524" layer="91"/>
+<label x="127" y="38.1" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$186" class="0">
