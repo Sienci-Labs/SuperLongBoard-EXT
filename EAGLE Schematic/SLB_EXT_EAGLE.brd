@@ -51849,6 +51849,8 @@ Please make sure your boards conform to these design rules.</description>
 </signal>
 <signal name="USB_D_R_N">
 <contactref element="R67" pad="1"/>
+<contactref element="U17" pad="70"/>
+<wire x1="35.036490625" y1="19.8810375" x2="44.499996875" y2="19.991215625" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$2">
 <contactref element="R131" pad="1"/>
@@ -52413,9 +52415,6 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="-3.625003125" y1="52.2850125" x2="17.174996875" y2="53.49999375" width="0" layer="19" extent="1-1"/>
 <wire x1="-12.75" y1="8.5" x2="24.500003125" y2="26.100009375" width="0" layer="19" extent="1-1"/>
 <wire x1="-10.4" y1="3.378" x2="-12.75" y2="8.5" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="USB_D_R_M">
-<contactref element="U17" pad="70"/>
 </signal>
 <signal name="VCAP2">
 <contactref element="U17" pad="73"/>

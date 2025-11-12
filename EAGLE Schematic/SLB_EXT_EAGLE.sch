@@ -35333,13 +35333,6 @@ Stallguard pins will use timer capture peripheral.</text>
 <busses>
 </busses>
 <nets>
-<net name="USB_D_R_M" class="0">
-<segment>
-<wire x1="132.08" y1="104.14" x2="76.2" y2="104.14" width="0.1524" layer="91"/>
-<label x="76.2" y="104.14" size="1.778" layer="95"/>
-<pinref part="U17" gate="G$1" pin="PA11/OTG_FS_DM"/>
-</segment>
-</net>
 <net name="STM_NRST" class="0">
 <segment>
 <wire x1="81.28" y1="175.26" x2="132.08" y2="175.26" width="0.1524" layer="91"/>
@@ -36414,6 +36407,11 @@ Stallguard pins will use timer capture peripheral.</text>
 <wire x1="378.46" y1="289.56" x2="358.14" y2="289.56" width="0.1524" layer="91"/>
 <label x="358.14" y="289.56" size="1.778" layer="95"/>
 <pinref part="R67" gate="G$1" pin="1"/>
+</segment>
+<segment>
+<wire x1="132.08" y1="104.14" x2="76.2" y2="104.14" width="0.1524" layer="91"/>
+<label x="76.2" y="104.14" size="1.778" layer="95"/>
+<pinref part="U17" gate="G$1" pin="PA11/OTG_FS_DM"/>
 </segment>
 </net>
 <net name="N$2" class="0">
