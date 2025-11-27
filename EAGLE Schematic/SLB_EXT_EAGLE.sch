@@ -37537,19 +37537,19 @@ Stallguard pins will use timer capture peripheral.</text>
 </instance>
 <instance part="D35" gate="G$1" x="304.8" y="180.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="297.18" y="172.72" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="314.96" y="172.72" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="314.96" y="176.53" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="D53" gate="G$1" x="330.2" y="180.34" smashed="yes" rot="R90">
 <attribute name="NAME" x="322.58" y="172.72" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="340.36" y="172.72" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="340.36" y="176.53" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="D54" gate="G$1" x="304.8" y="144.78" smashed="yes" rot="R90">
 <attribute name="NAME" x="297.18" y="137.16" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="314.96" y="137.16" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="314.96" y="140.97" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="D55" gate="G$1" x="330.2" y="144.78" smashed="yes" rot="R90">
 <attribute name="NAME" x="322.58" y="137.16" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="340.36" y="137.16" size="1.778" layer="96" rot="R90"/>
+<attribute name="VALUE" x="340.36" y="140.97" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="U39" gate="G$1" x="124.46" y="55.88" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="129.54" y="48.26" size="1.778" layer="96" rot="MR0"/>
@@ -37953,6 +37953,24 @@ Stallguard pins will use timer capture peripheral.</text>
 <pinref part="C122" gate="G$1" pin="2"/>
 <wire x1="127" y1="144.78" x2="127" y2="137.16" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="D35" gate="G$1" pin="1"/>
+<wire x1="299.72" y1="172.72" x2="299.72" y2="170.18" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="170.18" x2="287.02" y2="170.18" width="0.1524" layer="91"/>
+<label x="287.02" y="170.18" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="D54" gate="G$1" pin="1"/>
+<wire x1="299.72" y1="137.16" x2="299.72" y2="133.35" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="133.35" x2="285.75" y2="133.35" width="0.1524" layer="91"/>
+<label x="285.75" y="133.35" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="D55" gate="G$1" pin="1"/>
+<wire x1="325.12" y1="137.16" x2="325.12" y2="133.35" width="0.1524" layer="91"/>
+<wire x1="325.12" y1="133.35" x2="316.23" y2="133.35" width="0.1524" layer="91"/>
+<label x="316.23" y="133.35" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="MCU_GND" class="0">
 <segment>
@@ -38196,6 +38214,30 @@ Stallguard pins will use timer capture peripheral.</text>
 <wire x1="264.16" y1="30.48" x2="264.16" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="264.16" y1="43.18" x2="269.24" y2="43.18" width="0.1524" layer="91"/>
 <label x="266.7" y="43.18" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="D54" gate="G$1" pin="2"/>
+<wire x1="309.88" y1="137.16" x2="309.88" y2="130.81" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="130.81" x2="285.75" y2="130.81" width="0.1524" layer="91"/>
+<label x="285.75" y="130.81" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="D55" gate="G$1" pin="2"/>
+<wire x1="335.28" y1="137.16" x2="335.28" y2="130.81" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="130.81" x2="316.23" y2="130.81" width="0.1524" layer="91"/>
+<label x="316.23" y="130.81" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="D35" gate="G$1" pin="2"/>
+<wire x1="309.88" y1="172.72" x2="309.88" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="309.88" y1="167.64" x2="287.02" y2="167.64" width="0.1524" layer="91"/>
+<label x="287.02" y="167.64" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="D53" gate="G$1" pin="2"/>
+<wire x1="335.28" y1="172.72" x2="335.28" y2="167.64" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="167.64" x2="313.69" y2="167.64" width="0.1524" layer="91"/>
+<label x="313.69" y="167.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="STEP_X_P" class="0">
@@ -38817,6 +38859,14 @@ Stallguard pins will use timer capture peripheral.</text>
 <pinref part="D60" gate="G$1" pin="C"/>
 <pinref part="R188" gate="G$1" pin="2"/>
 <wire x1="88.9" y1="165.1" x2="88.9" y2="167.64" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="GND\" class="0">
+<segment>
+<pinref part="D53" gate="G$1" pin="1"/>
+<wire x1="325.12" y1="172.72" x2="325.12" y2="170.18" width="0.1524" layer="91"/>
+<wire x1="325.12" y1="170.18" x2="313.69" y2="170.18" width="0.1524" layer="91"/>
+<label x="313.69" y="170.18" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
